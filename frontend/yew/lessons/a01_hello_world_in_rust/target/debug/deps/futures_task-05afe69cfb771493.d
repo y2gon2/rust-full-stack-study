@@ -1,0 +1,11 @@
+/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/target/debug/deps/futures_task-05afe69cfb771493.rmeta: /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/target/debug/deps/futures_task-05afe69cfb771493.d: /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/arc_wake.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/waker_ref.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs:
