@@ -1,1 +1,0 @@
-/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/target/debug/a01_hello_world_in_rust: /home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/src/main.rs
