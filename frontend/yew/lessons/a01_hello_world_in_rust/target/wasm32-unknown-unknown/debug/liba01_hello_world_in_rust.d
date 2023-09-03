@@ -1,0 +1,1 @@
+/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/target/wasm32-unknown-unknown/debug/liba01_hello_world_in_rust.rlib: /home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a01_hello_world_in_rust/src/lib.rs
