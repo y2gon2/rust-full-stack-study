@@ -1,23 +1,15 @@
-use stylist::{style, yew::styled_component};
+pub mod clips;
+
 use yew::prelude::*;
 
-#[styled_component(App)]
+#[function_component(App)]
 pub fn app() -> Html {
-    let stylesheet = style!(
-        r#"
-            h1 {
-                color: orange;
-            }
-            p {
-                color: white;
-            }
-        "#
-    ).unwrap();
-
+    
     html! {
-        <div class={stylesheet}>
-            <h1>{"Hello World!!!"}</h1>
-            <p>{"more text!!"}</p>
-        </div>
+        <>
+            <clips::c16_inline_styles::InlineStyle/>
+            // <clips::c17_separates_css_file::SeparateCSSFile/>   
+        </>
     }
 }
+
