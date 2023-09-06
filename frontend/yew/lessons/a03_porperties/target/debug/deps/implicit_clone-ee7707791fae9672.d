@@ -1,0 +1,10 @@
+/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a03_porperties/target/debug/deps/implicit_clone-ee7707791fae9672.rmeta: /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/lib.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/sync.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/unsync.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/string.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/array.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/map.rs
+
+/home/gon/Projects/rust-full-stack-study/frontend/yew/lessons/a03_porperties/target/debug/deps/implicit_clone-ee7707791fae9672.d: /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/lib.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/sync.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/unsync.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/string.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/array.rs /home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/map.rs
+
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/lib.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/sync.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/unsync.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/string.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/array.rs:
+/home/gon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/implicit-clone-0.3.6/src/map.rs:

@@ -1,4 +1,4 @@
-use a03_porperties::App;
+use a04_callback::App;
 
 fn main() {
     yew::Renderer::<App>::new().render();
